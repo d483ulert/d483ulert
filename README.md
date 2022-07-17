@@ -2,7 +2,6 @@
 
 <div align="center">
   <H3>Skills<br><br>
-</div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=Spring Data&logoColor=white"><br><br>
@@ -16,6 +15,7 @@
 <img src="https://img.shields.io/badge/Thymeleaf-D24939?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 
+</div>
 
 
 
