@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"><br><br>
-<img src="https://img.shields.io/badge/Vue-0769AD?style=for-the-badge&logo=Vue&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-0769AD?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-D24939?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 
